@@ -1,0 +1,45 @@
+{
+  "name": "gogumi",
+  "version": "1.0.0",
+  "description": "팀 바이브 코딩 PJT",
+  "main": "index.js",
+  "dependencies": {
+    "csstype": "^3.2.3",
+    "detect-libc": "^2.1.2",
+    "entities": "^7.0.1",
+    "estree-walker": "^2.0.2",
+    "fdir": "^6.5.0",
+    "lightningcss": "^1.32.0",
+    "lightningcss-win32-x64-msvc": "^1.32.0",
+    "magic-string": "^0.30.21",
+    "nanoid": "^3.3.16",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.5",
+    "postcss": "^8.5.19",
+    "rolldown": "^1.1.5",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.17",
+    "vue": "^3.5.39",
+    "vue-router": "^4.6.4"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sara9872/gogumi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sara9872/gogumi/issues"
+  },
+  "homepage": "https://github.com/sara9872/gogumi#readme",
+  "devDependencies": {
+    "vite": "^8.1.4"
+  }
+}
